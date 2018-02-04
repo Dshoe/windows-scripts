@@ -1,7 +1,7 @@
 # Windows - Install Ionic and Clone Source Code
 
 # Install Ionic
-npm i -g ionic cordova
+npm install -g ionic cordova
 
 # Create Source Code Directory
 mkdir %userprofile%/code/ionic

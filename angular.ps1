@@ -1,7 +1,7 @@
 # Windows - Install Angular and Clone Source Code
 
 # Install Angular
-npm i -g @angular/cli
+npm install -g @angular/cli
 
 # Create Source Code Directory
 mkdir %userprofile%/code/angular
